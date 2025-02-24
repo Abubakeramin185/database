@@ -52,4 +52,4 @@ const usernameUser = document.createElement("td")
 
 }
 
-//getUsers()
+getUsers()
